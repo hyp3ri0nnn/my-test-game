@@ -1,0 +1,18 @@
+
+
+Feature List : 
+
+
+ - AI will chase player in los. 
+    - chase directly by player coordinates. 
+    - get player coordinates if player collision with los. 
+ - add direction to ai.
+ - Draw line between in player and ai, check for collisions.
+ - Add health to player. 
+ - Add attack function to Ai.
+ - make ai los invisible. 
+ - make minimap. 
+ - add levels. 
+ - add grid system. 
+ - add extraction point. 
+
